@@ -26,4 +26,6 @@ And if you want to run it later you should open terminal in the folder and type
 
 Don't forget to always run this program on ROOT!! because it's from kali linux original tools, it's just a little modification for what kind of attack you can chose, so you don't need to use pure code to attack network.
 
+- Albatany was here.
+
 For more information you can check it out [**Here**](https://www.kumpulanremaja.com/2019/09/bobol-wifi-dengan-termux.html)
